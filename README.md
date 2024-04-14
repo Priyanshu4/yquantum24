@@ -1,4 +1,4 @@
-![logo](./neutral_atom_quantum.jpg)
+![logo](./images/neutral_atom_quantum.jpg)
 
 # Learning about Analog Quantum Computing with Neutral Atoms
 
@@ -14,11 +14,18 @@ pip install bloqade
 
 these all represent different experiments we took to learn about the phenomenon of scarring and try to replicate it with more atoms and higher probability. 
 
-## What we learned
+# What we learned
 We tried out 3 different geometric patterns.
-- Chain
-- Square
-- Hex
+
+
+## Chain
+| ![image](./images/chain_layout.jpg) |                                                |
+|-------------------------------------|------------------------------------------------|
+| ![image](./images/chain_15.jpg)     | ![image](./images/chain_state_probability.jpg) |
+
+## Square
+| ![image](./images/square_layout.jpg) | ![image](./images/square_state_probability.jpg) |
+|--------------------------------------|------------------------------|
 
 We know that the phenomenon with revival is most present with lower number of atoms. For the chain model we were able to replicate the revival phenomenon with 15 atoms. For the square model we were able to replicate the revival phenomenon with 9 atoms with the second peak around 30%. For the hex model we weren't able to replicate the revival phenomenon as easily.
 

@@ -36,9 +36,3 @@ We know that the phenomenon with revival is most present with lower number of at
 
 ## Future Work
 Now that we know about the basic theory in the future we would like to experiment with different geometries with more randomness to see if we can replicate the revival phenomenon with more atoms and higher probability. A lot of the setbacks involved trying to finetune the different parameters to get the revival phenomenon to occur. We would also love to run our code more on the cloud and on Aquila.
-
-
-## Team Members
-- Ryan Lagasse - Software Engineer
-- Priyanshu Agrawal - Software Architect
-- Aditya Chandraker - Literature Reviewer

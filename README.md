@@ -27,6 +27,10 @@ We tried out 3 different geometric patterns.
 | ![image](./images/square_layout.jpg) | ![image](./images/square_state_probability.jpg) |
 |--------------------------------------|------------------------------|
 
+
+## Hex
+| ![image](./images/hex_layout.jpg) | ![image](./images/hex_state_probability.jpg) |
+
 We know that the phenomenon with revival is most present with lower number of atoms. For the chain model we were able to replicate the revival phenomenon with 15 atoms. For the square model we were able to replicate the revival phenomenon with 9 atoms with the second peak around 30%. For the hex model we weren't able to replicate the revival phenomenon as easily.
 
 
